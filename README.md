@@ -16,4 +16,4 @@ Date: December 2022
 - `convert_raw_txt_to_csv.py`: helper program to convert raw output from `scraper.py` into csv formats.
 - `analysis.py`: train, tune, and test machine learning models to predict the popularity of 
 Bilibili videos.
-- `paper.pdf`: technical report of this project.# Bilibili_video_popularity_pred
+- `paper.pdf`: technical report of this project.
