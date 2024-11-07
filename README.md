@@ -17,5 +17,3 @@ Date: December 2022
 - `analysis.py`: train, tune, and test machine learning models to predict the popularity of 
 Bilibili videos.
 - `paper.pdf`: technical report of this project.# Bilibili_video_popularity_pred
-# Bilibili_video_popularity_pred
-# Bilibili_video_popularity_pred
